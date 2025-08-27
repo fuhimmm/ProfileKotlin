@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Profile</string>
+    <string name="student_name">Safwan Sobhan</string>
+    <string name="student_nim">1234/SV/24289</string>
+    <string name="student_major">Teknik Informatika</string>
+    <string name="student_origin">Bandung, Jawa Barat</string>
+    <string name="student_website">linkedin.com/in/sabsobhan</string>
+    <string name="student_hobbies">Programming, Fotografi, Traveling</string>
+    <string name="student_quote">Belajar adalah investasi terbaik untuk masa depan. Setiap kode yang ditulis adalah langkah menuju impian.</string>
+    <string name="profile_image_desc">Profile image</string>
+    <string name="school_icon_desc">School icon</string>
+    <string name="location_icon_desc">Location icon</string>
+    <string name="link_icon_desc">Link icon</string>
+    <string name="hobby_icon_desc">Hobby icon</string>
+    <string name="quote_icon_desc">Quote icon</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="daerah_asal">Daerah Asal</string>
+    <string name="website_linkedin">Website/LinkedIn</string>
+    <string name="hobi">Hobi</string>
+    <string name="quote_favorit">Quote Favorit</string>
+</resources>
